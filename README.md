@@ -1,9 +1,7 @@
 
 <h1 align="center">Albert Morera</h1>
 
-I am currently a PhD student working mainly on fungal dynamics 🌲🍄🌍 
-
-I also climb mountains🏔, marvel at the seabed 🤿 and have fun playing like a little kid ⚽🏀🎾
+I am currently a PhD student working mainly on fungal dynamics 🌲🍄🌍
 
 
 
