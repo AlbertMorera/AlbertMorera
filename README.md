@@ -1,7 +1,7 @@
 
 <h1 align="center">Albert Morera</h1>
 
-I am currently a PhD student working mainly on fungal dynamics 🌲🍄🌍
+postdoc at Department of Forest Mycology and Plant Pathology at Swedish University of Agricultural Sciences intested on fungal spatio-temporal dynamics 🌲🍄🌍
 
 
 
