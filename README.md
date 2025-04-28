@@ -17,16 +17,6 @@ I am currently a PhD student working mainly on fungal dynamics 🌲🍄🌍
 
 ---
 
-#<div align="center">
-#  <div style="display: flex; align-items: flex-start;">
-#    <img src="https://github-readme-stats.vercel.app/api?username=AlbertMorera&theme=dark&show_icons=true"/>
-#    <br />
-#    <br />
-#    <br />
-#    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertMorera&theme=dark&layout=compact" />
-#  </div>
-#</div>
-
 
 
 
